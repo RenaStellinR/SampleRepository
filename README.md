@@ -1,3 +1,3 @@
 # SampleRepository
 
-Sample Python Project
+Sample Test Project
